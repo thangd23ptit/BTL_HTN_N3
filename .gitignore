@@ -1,0 +1,18 @@
+# Build output
+Output/
+Debug/
+Release/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.d
+
+# IDE cá nhân
+.vscode/
+.idea/
+*.user
+.settings/
+.metadata/
+STM32_ST-LINK_Utility/
